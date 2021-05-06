@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79439035606",
+    "project_id": "travel-app-edd73",
+    "storage_bucket": "travel-app-edd73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79439035606:android:f2da5bd58142aa7dbd1d77",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.aad.w9491709"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79439035606-8b9vsk4ncasajk3667al4nj3tc362drl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvNeBua41SZ-4d6jwzSvkyvEmgAeb2TY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79439035606-8b9vsk4ncasajk3667al4nj3tc362drl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
